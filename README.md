@@ -79,4 +79,14 @@ If transcription isn't working:
 
 - Transcription may not work without a valid OpenAI API key
 - ICE connection failures can occur on some network configurations
-- Video quality degrades with many simultaneous connections 
+- Video quality degrades with many simultaneous connections
+
+<!-- HAPA_NODE_ATLAS_DEMO:START -->
+## See It In Action
+
+<a href="https://calderwong.github.io/hapa-node-atlas/">
+  <img src="https://calderwong.github.io/hapa-node-atlas/assets/atalas-hero-loop-poster.jpg" alt="Hapa Node Atlas live demo" width="360">
+</a>
+
+[Open the Hapa Node Atlas demo](https://calderwong.github.io/hapa-node-atlas/)
+<!-- HAPA_NODE_ATLAS_DEMO:END -->
